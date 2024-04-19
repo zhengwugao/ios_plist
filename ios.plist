@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://res-test.51shortplay.com/resource/20240407/series/%E8%80%81%E7%8E%8B%E8%BF%BD%E5%89%A7-200x200.png</string>
+                    <string>http://10.16.21.90:8888/media/file/shortfilm.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://res-test.51shortplay.com/resource/20240407/series/%E8%80%81%E7%8E%8B%E8%BF%BD%E5%89%A7-200x200.png</string>
+                    <string>http://10.16.21.90:8888/media/file/shortfilm.png</string>
                 </dict>
             </array>
             <key>metadata</key>
