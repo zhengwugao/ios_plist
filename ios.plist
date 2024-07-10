@@ -40,7 +40,7 @@
                         <key>kind</key>
                         <string>software</string>
                         <key>bundle-identifier</key>
-                        <string>com.test.pny1134</string>
+                        <string>com.test.pny</string>
                     </dict>
                 </dict>
             </array>
