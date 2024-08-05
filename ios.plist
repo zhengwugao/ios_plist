@@ -36,7 +36,7 @@
                         <key>title</key>
                         <string>晨风剧场</string>
                         <key>bundle-version</key>
-                        <string>2.0.0</string>
+                        <string>1.0.1</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>bundle-identifier</key>
