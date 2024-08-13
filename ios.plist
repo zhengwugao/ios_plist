@@ -36,11 +36,11 @@
                         <key>title</key>
                         <string>晨风剧场</string>
                         <key>bundle-version</key>
-                        <string>1.0.1</string>
+                        <string>2.0.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>bundle-identifier</key>
-                        <string>com.djdj.cscs</string>
+                        <string>com.test.pny</string>
                     </dict>
                 </dict>
             </array>
